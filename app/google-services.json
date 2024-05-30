@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526132596021",
+    "project_id": "entertaiment-app-2caef",
+    "storage_bucket": "entertaiment-app-2caef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526132596021:android:a42daa6f68cf4eb01b107c",
+        "android_client_info": {
+          "package_name": "com.example.newsroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2-kaNCG3t8Ra0bdzrcPL2A9yWwmQTAGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
